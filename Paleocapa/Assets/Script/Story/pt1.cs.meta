@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3ac6e38330318f04e8f13595a0187584
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - im: {instanceID: 0}
+  - pt1_1: {fileID: 21300000, guid: 26c97335c28c0cb4e8add5fc03717881, type: 3}
+  - pt1_2: {fileID: 21300000, guid: 4a329acb938357f46a51971a9b19fb4d, type: 3}
+  - pt1_3: {fileID: 21300000, guid: 01f0e98f90030a642a55397d1368e089, type: 3}
+  - pt1_4: {fileID: 21300000, guid: e53e4e1bb0084da47802da2359310ea5, type: 3}
+  - pt1_5: {fileID: 21300000, guid: 9a42091323a431946a9b565a89e86de0, type: 3}
+  - pt1_6: {fileID: 21300000, guid: 8f18083a337d7f64193334e9ef8b0252, type: 3}
+  - pt1_7: {fileID: 21300000, guid: 8f18083a337d7f64193334e9ef8b0252, type: 3}
+  - pt1_8: {fileID: 21300000, guid: d6cfd151225105d47a44818916f122e4, type: 3}
+  - pt1_9: {fileID: 21300000, guid: 438367ccb3224b548b1f6426054ef102, type: 3}
+  - pt1_10: {fileID: 21300000, guid: fc7156de9c9e0054496c41c4c4e3d8e7, type: 3}
+  - pt1_11: {fileID: 21300000, guid: 47786e837459bc84980569fd7b74ae8f, type: 3}
+  - pt1_12: {fileID: 21300000, guid: 43d26318b128cdd4a90e82245f756587, type: 3}
+  - pt1_13: {fileID: 21300000, guid: e3165d7cfe15cd44595299384785ac52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

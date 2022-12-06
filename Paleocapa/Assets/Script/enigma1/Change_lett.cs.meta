@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 9cd68a69e860af64497e3ca204bdc30e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - A: {fileID: 21300000, guid: a635c94246e98f948b00cac96d406ce4, type: 3}
+  - B: {fileID: 21300000, guid: 4863a613c615a3742b97b15a298449dc, type: 3}
+  - C: {fileID: 21300000, guid: 9a4d8a1315204584e8b25db670f8ce21, type: 3}
+  - D: {fileID: 21300000, guid: c2a5d8acc618f90479540a5b78261ffb, type: 3}
+  - E: {fileID: 21300000, guid: 0a5c339f34fccd14eb16d83e5a6cd9cf, type: 3}
+  - F: {fileID: 21300000, guid: 7692dc12e4a28b7459402f7a109dbf68, type: 3}
+  - G: {fileID: 21300000, guid: 2b8128445a39a0148843d1114f24ba19, type: 3}
+  - H: {fileID: 21300000, guid: c2f4249cc9ddca2449742e096b4091ec, type: 3}
+  - I: {fileID: 21300000, guid: 39bba1e5d6a87744a9fef437ffa69d6e, type: 3}
+  - J: {fileID: 21300000, guid: 5106112d67d8c684d9a11e672d249fc8, type: 3}
+  - K: {fileID: 21300000, guid: f5e9bbdb0b0007340bfc1137e24a3b58, type: 3}
+  - L: {fileID: 21300000, guid: ddb81cd58760417458d9b09742413ebe, type: 3}
+  - M: {fileID: 21300000, guid: c2880ff8e25c9674f88b9c15df81b8d4, type: 3}
+  - N: {fileID: 21300000, guid: 4f8dedf6f94c5794691a70e7f45a89da, type: 3}
+  - O: {fileID: 21300000, guid: 7708b90b6cfe1334fb866087cb4555f7, type: 3}
+  - P: {fileID: 21300000, guid: 5c631ba1f81945548afc594202c9f310, type: 3}
+  - Q: {fileID: 21300000, guid: fafba3f28ddc68344be5831db2d4685f, type: 3}
+  - R: {fileID: 21300000, guid: 16656cb0de232514d9a8e97c40626437, type: 3}
+  - S: {fileID: 21300000, guid: 49abf6c49d99b8c43af5d6824a567601, type: 3}
+  - T: {fileID: 21300000, guid: b7bb2f0d2c252894f80e74b54211a614, type: 3}
+  - U: {fileID: 21300000, guid: 6a2c3dd4385acbb4e839e101557135c5, type: 3}
+  - V: {fileID: 21300000, guid: 443d93560cb14ed43ab78802c8376f00, type: 3}
+  - W: {fileID: 21300000, guid: 5ab127ddabc5a364db01e36246ed2c37, type: 3}
+  - X: {fileID: 21300000, guid: dc496d4f6639abf48b12118985ec8d6f, type: 3}
+  - Y: {fileID: 21300000, guid: 6b8f4811c2286114086e78ef4ce7185b, type: 3}
+  - Z: {fileID: 21300000, guid: 9dbcca524137c7b40baa4cb0c724c9bb, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

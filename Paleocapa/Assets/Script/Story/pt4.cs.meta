@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0d4c670b82a72d44bffa4d4331bb425
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - im: {instanceID: 0}
+  - pt1_1: {fileID: 21300000, guid: c6d391b0feb94734ea50f50ed06a85ea, type: 3}
+  - pt1_2: {fileID: 21300000, guid: 9b2ed132bfde46945877895dd1eebedd, type: 3}
+  - pt1_3: {fileID: 21300000, guid: c037850c979da394ba78c93dddea760e, type: 3}
+  - pt2_1: {fileID: 21300000, guid: a9a5bd251c0a642419d73cdfd514a931, type: 3}
+  - pt2_2: {fileID: 21300000, guid: f23614a733dd5794696f801283f345b1, type: 3}
+  - pt2_3: {fileID: 21300000, guid: 591e1fe98328aae458d3d613ae695f61, type: 3}
+  - pt3_1: {fileID: 21300000, guid: 6f0e962daa390cb4baac2a64f54c75d0, type: 3}
+  - pt3_2: {fileID: 21300000, guid: 1dda6ccf3705e884b80e21fcad35b07e, type: 3}
+  - pt3_3: {fileID: 21300000, guid: 74718961671577d40b8e821aa0753c72, type: 3}
+  - pt0_1: {fileID: 21300000, guid: 00c05eba352d6f240a134e9deb1aa0a4, type: 3}
+  - pt0_2: {fileID: 21300000, guid: c19c227aa2c15d645a1a9f74f3ffafc0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+Sviluppatore:
+Questa storia non e’ LA Storia di paleocapa, bensi’ una delle tante imprese che compi’ .
+E non voletemi male se ho abbellito le sue gesta. Ma ora basta con le parole, vai e scopri. 
+
+
+Paleocapa e Messaggero, Fuori casa P{
+	
+	MESSAGGERO:
+	Signor Paleocapa, ci serve il suo aiuto!!! 
+
+	Il porto di Malamocco continua ad insabbiarsi e le navi si sono bloccate
+
+	E’ da quando venne costruito che il porto continua ad avere questo problema:
+
+	Il mare trasporta la sabbia che si accumula
+	sul fondo rialzandolo e impedendo alle navi di sbarcare!!!
+
+	Ci serve il suo aiuto, di questo passo tutta l’ economia di Venezia ne risentira’
+
+
+	P. Paleocapa:
+	
+	Comprendo la situazione, mi occupero’ personalmente di cercare una soluzione
+
+	MESSAGGERO:
+	
+	Allora mi affido a lei, tutta la citta’ lo fa
+
+}
+
+Paleocapa, Fuori casa sua{
+
+	Questo si’ che e’ un grande problema, Non posso certo progettare una soluzione completamente da zero.
+	
+	Questo si’ che e’ un grande problema, Non posso certo progettare una soluzione completamente da zero.
+	
+	Comincero’ a cercare nella biblioteca di venezia, sicuramente in tutti questi anni qualcuno avra’ cercato di risolverlo
+
+}
+
+Paleocapa, Alla biblioteca{
+
+	Cerchero’ in questo vecchio archivio...
+
+}
+
+Paleocapa, Alla biblioteca Dopo l'enigma{
+
+	Cerchero’ in questo vecchio archivio...
+	
+	In questo documento viene piu’ volte citato un progetto risalente al 1807 commissionato da Napoleone...
+	
+	Avrebbe dovuto risolvere il problema definitivamente, ma in seguito alla sua caduta il progetto venne abbandonato...
+
+	Qui pero’ manca chiaramente il progetto definitivo, si parla solo di due dighe che potranno risolvere il problema del porto.
+	
+	Sono pronto a scommettere che il progetto e’ finito disperso in seguito ai continui spostamenti da un’ archivio all’ altro
+	
+	E’ il momento di rimboccarsi le maniche e andare a cercare il progetto. Devo sbrigarmi, la citta’ conta su di me!
+
+
+
+}
+
