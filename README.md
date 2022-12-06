@@ -1,6 +1,7 @@
 # paleoscovery-public
 Questo gioco presenta le vicende di Paleocapa nella Venezia del 1838 quando lui era direttore generale delle Pubbliche Costruzioni.
 Le vicende sono state modificate un po' per rendere l'esperienza di gioco migliore per l'utente e più coinvolgente.
+
 Il gioco è stato fatto con lo unity engine e il linguaggio C#.
 Per avviare il gioco basterà avviare il file paleocapa.exe presente nella cartella di WeTransfer.
 I comandi base sono:
